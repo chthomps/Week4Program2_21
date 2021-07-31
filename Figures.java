@@ -72,8 +72,6 @@ public class Figures {
 				}
 			} while (selection >= 1 && selection <= 4);
 		
-		scan.close();
-
 	}
 
     //Establishes the printX method printing "X"
